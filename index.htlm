@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <H1><b>"Hello Word"barrio Sagrado Corazon </b></H1>
+    <H1 class = "text-center mt-5  display-4  text-primary">"Hello Word"barrio Sagrado Corazon</H1>
     <h2>Resumen</h2>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium quis error odit inventore eius alias
         pariatur quos ipsa doloribus laudantium, et maxime porro reprehenderit. Totam adipisci iure aut suscipit quae.
