@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutorial Proyecto</title>
+</head>
+
+<body>
+    <H1><b>"Hello Word"barrio Sagrado Corazon </b></H1>
+    <h2>Resumen</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium quis error odit inventore eius alias
+        pariatur quos ipsa doloribus laudantium, et maxime porro reprehenderit. Totam adipisci iure aut suscipit quae.
+        Adipisci autem, aliquid tempore totam ut tenetur fugiat impedit quae doloremque? Nemo delectus cumque
+        perferendis magnam sint quaerat molestias esse, laudantium voluptatibus sunt optio voluptate debitis. Libero eos
+     </p>
+</body>
+
+</html>
