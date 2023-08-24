@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
 
 <head>
@@ -9,13 +9,9 @@
 </head>
 
 <body>
-    <H1 class = "text-center mt-5  display-4  text-primary">"Hello Word"barrio Sagrado Corazon</H1>
+    <H1 class = "text-center mt-5  display-4  text-primary">"Barrio Sagrado Corazon"</H1>
     <h2>Resumen</h2>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium quis error odit inventore eius alias
-        pariatur quos ipsa doloribus laudantium, et maxime porro reprehenderit. Totam adipisci iure aut suscipit quae.
-        Adipisci autem, aliquid tempore totam ut tenetur fugiat impedit quae doloremque? Nemo delectus cumque
-        perferendis magnam sint quaerat molestias esse, laudantium voluptatibus sunt optio voluptate debitis. Libero eos
-     </p>
+    <p>Esta es la parte del texo que deseo demostrar es esta pagina. </p>
 </body>
 
 </html>
